@@ -1,7 +1,6 @@
 # ExercicioJava
 # 😄 Olá! Eu sou a Anna Lyvia Medeiros.
-# Faça um programa que leia as seguintes informações: Nome completo; Nome do curso; Número do período (Exemplo: 1,2,3,4…) Valor da primeira Nota; Valor da segunda Nota; Quantidade de faltas. Esse problema deve imprimir todas as informações solicitadas; Esse problema deve imprimir a média entre as notas;
-- 🎓 Exercicios da faculdade referente a Java.
+# 🎓 Exercicios da faculdade referente a Java.
 - 📚 Estudando Java
 
 
